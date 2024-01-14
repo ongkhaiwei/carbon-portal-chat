@@ -1,0 +1,3 @@
+fastapi
+ibm-watson-machine-learning
+uvicorn[standard]
